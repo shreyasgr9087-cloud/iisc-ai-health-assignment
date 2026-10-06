@@ -41,8 +41,8 @@ Initially, I relied on **regex phrase-matching to assign the "gold" labels for m
 **Rule Compliance: Predictions Before Results**
 As required by the assignment guidelines: *"Commit each Level 3 prediction to GitHub before you run the test. The commit time is your proof."* 
 
-This rule was strictly followed to maintain scientific and chronological integrity. My Git history serves as cryptographic proof that the hypotheses were formulated prior to seeing the empirical results:
-* **Prediction Commit:** `docs(qc): log L3 predictions...` (16cce41) was committed **3 hours prior** to evaluation.
+This rule was strictly followed to maintain scientific and chronological integrity. My Git history serves as a timestamped record that the hypotheses were formulated prior to seeing the empirical results (though it should be noted that Git commit timestamps are author-set, so this serves as supporting evidence of ordering rather than tamper-proof proof):
+* **Prediction Commit:** `docs(qc): log L3 predictions...` (16cce41) was committed **46 minutes prior** to evaluation.
 * **Results Commit:** `feat(qc): add L3 evaluation pipeline, empirical results log...` (ed5329e) was committed **after** the evaluation was executed.
 
 **Project Completion Record**
