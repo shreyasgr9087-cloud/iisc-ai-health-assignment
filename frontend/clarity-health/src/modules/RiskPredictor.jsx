@@ -21,7 +21,7 @@ const FIELDS = [
   { key: "diabetes", label: "Diabetes", kind: "toggle" },
   { key: "ejection_fraction", label: "Ejection Fraction", unit: "%", kind: "number", min: 1, max: 100, step: 1 },
   { key: "high_blood_pressure", label: "High Blood Pressure", kind: "toggle" },
-  { key: "platelets", label: "Platelets", unit: "kiloplatelets/mL", kind: "number", min: 10, max: 1000, step: 1 },
+  { key: "platelets", label: "Platelets", unit: "×10³/µL", kind: "number", min: 25, max: 850, step: 1 },
   { key: "serum_creatinine", label: "Serum Creatinine", unit: "mg/dL", kind: "number", min: 0.1, max: 15, step: 0.1 },
   { key: "serum_sodium", label: "Serum Sodium", unit: "mEq/L", kind: "number", min: 100, max: 160, step: 1 },
   { key: "sex", label: "Sex", kind: "sex" },
@@ -65,7 +65,9 @@ function toPayload(values, threshold) {
   const features = {};
   for (const f of FIELDS) {
     const v = values[f.key];
-    if (f.kind === "number") features[f.key] = Number(v);
+    if (f.kind === "number") {
+      features[f.key] = f.key === "platelets" ? Number(v) * 1000 : Number(v);
+    }
     else if (f.kind === "toggle") features[f.key] = v ? 1 : 0;
     else if (f.kind === "sex") features[f.key] = v === "male" ? 1 : 0;
   }
