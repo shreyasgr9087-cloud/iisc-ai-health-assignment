@@ -18,3 +18,4 @@
 
 **Overall Rationale:**
 For Questions 1-6, the exact keyword overlap will allow pure NumPy TF-IDF to easily place the "gold" chunks in the top 3, leading to correct LLM answers. Question 7 will fail because TF-IDF cannot map synonyms (wellness/movement) to the document's vocabulary (health/activity), starving the LLM of context. For the unanswerable queries (8-10), retrieval will mathematically pull irrelevant text, but the explicit LLM prompt guardrail will prevent hallucination, resulting in safe "I don't know" responses. The original text was written by me, but i used AI to create a table, prediction is done by me, the user. 
+

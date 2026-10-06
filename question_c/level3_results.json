@@ -1,0 +1,303 @@
+[
+  {
+    "n": 1,
+    "question": "How does the WHO define overweight and obesity in adults?",
+    "top3": [
+      31,
+      30,
+      33
+    ],
+    "sources": [
+      "who_obesity.pdf",
+      "who_obesity.pdf",
+      "who_obesity.pdf"
+    ],
+    "scores": [
+      0.3116,
+      0.2987,
+      0.2857
+    ],
+    "gold": [
+      31,
+      32,
+      35
+    ],
+    "gold_in_top3": true,
+    "said_dont_know": false,
+    "chunks": [
+      "access to healthy diet, market forces, and the broader environment. In the last decades, obesity has expanded globally as countries have experienced greater food security, socioeconomic development, and shifts in diet, physical activity, and societal and individual behavior driven by globalization and industrialized food systems. These forces have created 10/6/26, 1:17 AM Obesity and overweight https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight 1/7 increasingly obesogenic environments, contributing to what is now a global public health crisis with more than 1 billion people living with obesity and prevalence rising in nearly every country (1). A diagnosis of overweight or obesity is made by measuring people\u2019s weight and height and by calculating the body mass index (BMI): weight (kg)/height\u00b2 (m\u00b2). The body mass index is a surrogate marker of fatness and additional measurements, such as the waist circumference, can help the diagnosis of obesity. The BMI categories for defining obesity vary by age and gender for adults, adolescents, children and infants. Definition of overweight and obesity WHO defines overweight and obesity as outlined below. Adults For adults: overweight is a BMI greater than or equal to 25; and obesity is a BMI greater than or equal to 30. Children For children, age needs to be considered when defining",
+      "Donate \u00a9 Obesity and overweight 8 December 2025 Reading time: 7 min (2008 words) | \u0627\u0644\u0639\u0631\u0628\u064a\u0629\u4e2d\u6587 Fran\u00e7ais \u0420\u0443\u0441\u0441\u043a\u0438\u0439 Espa\u00f1ol Key facts In 2022, 1 in 8 people in the world were living with obesity. Worldwide adult obesity has more than doubled since 1990, and adolescent obesity has quadrupled. In 2022, 2.5 billion adults (18 years and older) were overweight. Of these, 890 million were living with obesity. In 2022, 43% of adults aged 18 years and over were overweight and 16% were living with obesity. In 2024, 35 million children under the age of 5 were overweight. Over 390 million children and adolescents aged 5\u201319 years were overweight in 2022, including 160 million who were living with obesity. Overview Overweight is a condition of excessive fat deposits. Obesity is classified by the World Health Organization (WHO) as a chronic, relapsing disease arising from complex interactions between genetics, neurobiology, eating behaviours, access to healthy diet, market forces, and the broader environment. In the last decades, obesity has expanded globally as countries have experienced greater food security, socioeconomic development, and shifts in diet, physical activity, and societal and individual behavior driven by globalization and industrialized food systems. These forces have created 10/6/26,",
+      "Child Growth Standards median. Charts and tables: WHO child growth standards for children aged under 5 years Prevalence of overweight and obesity In 2022, 2.5 billion adults aged 18 years and older were overweight, including over 890 million adults who were living with obesity (1). This corresponds to 43% of adults aged 18 years and over (43% of men and 44% of women) who were overweight; this is an increase from 1990, when 25% of adults aged 18 years and over were overweight. Prevalence of overweight varied by region, from 31% in the WHO South-East Asia Region and the African Region to 67% in the Region of the Americas. About 16% of adults aged 18 years and older worldwide were obese in 2022. The worldwide prevalence of obesity more than doubled between 1990 and 2022. In 2024, an estimated 35 million children under the age of 5 years were overweight (2). Once considered a high-income country problem, overweight is on the rise in low- and middle-income countries. In Africa, the number of overweight children under 5 years has increased by nearly 12.1% since 2000. Almost half of the children under 5 years who were overweight or living with obesity in"
+    ],
+    "answer": "**WHO definition for adults**\n\n- **Overweight:** Body Mass Index (BMI) \u2265\u202f25  \n- **Obesity:** Body Mass Index (BMI) \u2265\u202f30  \n\n*Source: who_obesity.pdf*"
+  },
+  {
+    "n": 2,
+    "question": "How many adults aged 30-79 years globally have hypertension?",
+    "top3": [
+      20,
+      33,
+      32
+    ],
+    "sources": [
+      "who_hypertension.pdf",
+      "who_obesity.pdf",
+      "who_obesity.pdf"
+    ],
+    "scores": [
+      0.3604,
+      0.1943,
+      0.1525
+    ],
+    "gold": [
+      20
+    ],
+    "gold_in_top3": true,
+    "said_dont_know": false,
+    "chunks": [
+      "Donate \u00a9 Hypertension 25 September 2025 Reading time: 5 min (1357 words) | \u0627\u0644\u0639\u0631\u0628\u064a\u0629\u4e2d\u6587 Fran\u00e7ais \u0420\u0443\u0441\u0441\u043a\u0438\u0439 Espa\u00f1ol Key facts An estimated 1.4 billion adults aged 30\u201379 years worldwide had hypertension in 2024; this represents 33% of the popluation in this age range. Two-thirds of adults aged 30\u201379 years who have hypertension live in low- and middle-income countries. An estimated 600 million adults with hypertension (44%) are unaware that they have the condition. Approximately 630 million adults with hypertension (44%) are diagnosed and treated. Approximately 320 million adults with hypertension (23%) have it under control. Hypertension is a major cause of premature death worldwide. One of the global targets for noncommunicable diseases is to reduce the prevalence of uncontrolled hypertension by 25% between 2010 and 2025. Overview Hypertension (high blood pressure) is when the pressure in your blood vessels is too high (140/90 mmHg or higher). It is common but can be serious if not treated. People with high blood pressure may not feel symptoms. The only way to know is to get your blood pressure checked. Things that increase the risk of having high blood pressure include: older age genetics being overweight or obese 10/6/26, 1:17 AM Hypertension https://www.who.int/news-room/fact-sheets/detail/hypertension 1/6",
+      "Child Growth Standards median. Charts and tables: WHO child growth standards for children aged under 5 years Prevalence of overweight and obesity In 2022, 2.5 billion adults aged 18 years and older were overweight, including over 890 million adults who were living with obesity (1). This corresponds to 43% of adults aged 18 years and over (43% of men and 44% of women) who were overweight; this is an increase from 1990, when 25% of adults aged 18 years and over were overweight. Prevalence of overweight varied by region, from 31% in the WHO South-East Asia Region and the African Region to 67% in the Region of the Americas. About 16% of adults aged 18 years and older worldwide were obese in 2022. The worldwide prevalence of obesity more than doubled between 1990 and 2022. In 2024, an estimated 35 million children under the age of 5 years were overweight (2). Once considered a high-income country problem, overweight is on the rise in low- and middle-income countries. In Africa, the number of overweight children under 5 years has increased by nearly 12.1% since 2000. Almost half of the children under 5 years who were overweight or living with obesity in",
+      "children and infants. Definition of overweight and obesity WHO defines overweight and obesity as outlined below. Adults For adults: overweight is a BMI greater than or equal to 25; and obesity is a BMI greater than or equal to 30. Children For children, age needs to be considered when defining overweight and obesity. Children aged between 5\u201319 years For children aged 5\u201319 years: overweight is BMI-for-age greater than 1 standard deviation above the WHO Growth Reference median; and obesity is greater than 2 standard deviations above the WHO Growth Reference median. Charts and tables: WHO growth reference for children aged between 5\u201319 years Children under 5 years of age For children under 5 years of age: 10/6/26, 1:17 AM Obesity and overweight https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight 2/7 overweight is weight-for-height greater than 2 standard deviations above WHO Child Growth Standards median; and obesity is weight-for-height greater than 3 standard deviations above the WHO Child Growth Standards median. Charts and tables: WHO child growth standards for children aged under 5 years Prevalence of overweight and obesity In 2022, 2.5 billion adults aged 18 years and older were overweight, including over 890 million adults who were living with obesity (1). This corresponds to 43% of"
+    ],
+    "answer": "**Answer:**  \nAn estimated **1.4\u202fbillion adults aged 30\u201379\u202fyears worldwide had hypertension** in 2024.  \n\n*Source: who_hypertension.pdf*"
+  },
+  {
+    "n": 3,
+    "question": "What percentage of diabetes deaths occur in low- and middle-income countries?",
+    "top3": [
+      6,
+      11,
+      12
+    ],
+    "sources": [
+      "who_cardiovascular.pdf",
+      "who_diabetes.pdf",
+      "who_diabetes.pdf"
+    ],
+    "scores": [
+      0.3247,
+      0.2903,
+      0.2654
+    ],
+    "gold": [
+      11,
+      12,
+      18
+    ],
+    "gold_in_top3": true,
+    "said_dont_know": true,
+    "chunks": [
+      "joints, nausea, stomach cramps and vomiting. Why cardiovascular diseases are a development issue in low- and middle- income countries Approximately 80% of the world's deaths from CVDs occur in low- and middle-income countries. People living in low- and middle-income countries often do not have the benefit of primary health care programmes for early detection and treatment of people with risk factors for CVDs. People in low- and middle-income countries who suffer from CVDs and other noncommunicable diseases have less access to effective and equitable health care services which respond to their needs. As a result, for many people in these countries detection is often late in the course of the disease and people die at a younger age from CVDs and other noncommunicable diseases, often in their most productive years. The poorest people in low- and middle-income countries are most affected. At the household level, evidence is emerging that CVDs and other noncommunicable diseases contribute to poverty due to catastrophic health spending and high out-of-pocket expenditure. At the macro-economic level, CVDs place a heavy burden on the economies of low- and middle-income countries. How the burden of cardiovascular diseases can be reduced The key to cardiovascular disease reduction lies in",
+      "Donate \u00a9 Diabetes 14 November 2024 Reading time: 5 min (1240 words) | \u0627\u0644\u0639\u0631\u0628\u064a\u0629\u4e2d\u6587 Fran\u00e7ais \u0420\u0443\u0441\u0441\u043a\u0438\u0439 Espa\u00f1ol Key facts The number of people living with diabetes rose from 200 million in 1990 to 830 million in 2022. Prevalence has been rising more rapidly in low- and middle-income countries than in high-income countries. More than half of people living with diabetes did not take medication for their diabetes in 2022. Diabetes treatment coverage was lowest in low- and middle-income countries. Diabetes causes blindness, kidney failure, heart attacks, stroke and lower limb amputation. In 2021, diabetes and kidney disease due to diabetes caused over 2 million deaths. In addition, around 11% of cardiovascular deaths were caused by high blood glucose. A healthy diet, regular physical activity, maintaining a normal body weight and avoiding tobacco use are ways to prevent or delay the onset of type 2 diabetes. Diabetes can be treated and its consequences avoided or delayed with diet, physical activity, medication and regular screening and treatment for complications. Overview Diabetes is a chronic disease that occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces. Insulin is a hormone that",
+      "its consequences avoided or delayed with diet, physical activity, medication and regular screening and treatment for complications. Overview Diabetes is a chronic disease that occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces. Insulin is a hormone that regulates blood glucose. Hyperglycaemia, also called raised blood glucose or raised blood sugar, is a common effect of uncontrolled diabetes and over time leads to serious damage to many of the body's systems, especially the nerves and blood vessels. 10/6/26, 1:16 AM Diabetes https://www.who.int/news-room/fact-sheets/detail/diabetes 1/5 In 2022, 14% of adults aged 18 years and older were living with diabetes, an increase from 7% in 1990. More than half (59%) of adults aged 30 years and over living with diabetes were not taking medication for their diabetes in 2022. Diabetes treatment coverage was lowest in low- and middle-income countries. In 2021, diabetes was the direct cause of 1.6 million deaths and 47% of all deaths due to diabetes occurred before the age of 70 years. Another 530 000 kidney disease deaths were caused by diabetes, and high blood glucose causes around 11% of cardiovascular deaths (1). Since 2000, mortality rates from"
+    ],
+    "answer": "I don't know based on the provided context."
+  },
+  {
+    "n": 4,
+    "question": "What is the recommended weekly physical activity (in minutes) for adults?",
+    "top3": [
+      44,
+      48,
+      49
+    ],
+    "sources": [
+      "who_physical_activity.pdf",
+      "who_physical_activity.pdf",
+      "who_physical_activity.pdf"
+    ],
+    "scores": [
+      0.2576,
+      0.2307,
+      0.2251
+    ],
+    "gold": [
+      49
+    ],
+    "gold_in_top3": true,
+    "said_dont_know": false,
+    "chunks": [
+      "Donate Physical activity 26 June 2024 Reading time: 5 min (1422 words) | \u0627\u0644\u0639\u0631\u0628\u064a\u0629\u4e2d\u6587 Fran\u00e7ais \u0420\u0443\u0441\u0441\u043a\u0438\u0439 Espa\u00f1ol Key facts Regular physical activity provides significant physical and mental health benefits. In adults, physical activity contributes to prevention and management of noncommunicable diseases such as cardiovascular diseases, cancer and diabetes and reduces symptoms of depression and anxiety, enhances brain health, and can improve overall well-being. In children and adolescents, physical activity promotes bone health, encourages healthy growth and development of muscle, and improves motor and cognitive development. 31% of adults and 80% of adolescents do not meet the recommended levels of physical activity. The global target set to reduce levels of physical inactivity in adults and adolescents is a 10% relative reduction by 2025 and 15% by 2030, from the 2010 baseline. The global estimate of the cost of physical inactivity to public health care systems between 2020 and 2030 is about US$ 300 billion (approximately US$ 27 billion per year) if levels of physical inactivity are not reduced. Overview WHO defines physical activity as any bodily movement produced by skeletal muscles that requires energy expenditure. Physical activity refers to all movement including during leisure time, for transport to get to and",
+      "activity is recommended? The WHO Global guidelines on physical activity and sedentary behaviour provide recommendations for children (age 5 and up), adolescents, adults, older adults, pregnant and post-partum women, and people living with chronic conditions and disabilities. The recommendations detail the amount of physical activity (frequency, intensity and duration) required to offer significant health benefits and to reduce health risks. The guidelines highlight that any amount of physical activity is better than none; all physical activity counts; all age groups should limit the amount of time being sedentary; and muscle strengthening benefits everyone. The WHO Guidelines on physical activity, sedentary behaviour and sleep for children under 5 years of age provide recommendations on the amount of time in a 24-hour day that young children, under 5 years of age, should spend being physically active or sleeping for their health and well-being, and the maximum recommended time these children should spend on screen-based sedentary activities or time restrained. An infographic summarizes the current WHO guidelines on physical activity and sedentary behaviour for all age groups. WHO develops guidelines through an arduous process of reviewing scientific evidence and expert consultations. Preparations are already underway for the next guidelines, anticipated for publication in",
+      "on screen-based sedentary activities or time restrained. An infographic summarizes the current WHO guidelines on physical activity and sedentary behaviour for all age groups. WHO develops guidelines through an arduous process of reviewing scientific evidence and expert consultations. Preparations are already underway for the next guidelines, anticipated for publication in 2030. Levels of physical inactivity globally WHO regularly monitors trends in physical inactivity. A recent study (1) found that nearly one third (31%) of the world\u2019s adult population, 1.8 billion adults, are physically inactive. That is, they do not meet the global recommendations of at least 150 minutes of moderate- intensity physical activity per week. This is an increase of 5 percentage points between 2010 and 2022. If this trend continues, the proportion of adults not meeting recommended levels of physical activity is projected to rise to 35% by 2030. Globally, there are notable age and gender differences in levels of physical inactivity. Women are less active than men by an average of 5 percentage points. This has not changed since 2000. After 60 years of age physical inactivity levels increase in both men and women. 81% of adolescents (aged 11\u201317 years) were physically inactive (2). Adolescent girls were less"
+    ],
+    "answer": "The WHO recommends that adults engage in **at least 150 minutes of moderate\u2011intensity physical activity per week** (or an equivalent amount of vigorous activity) to gain significant health benefits.  \n\n*Source: who_physical_activity.pdf*"
+  },
+  {
+    "n": 5,
+    "question": "What are the main differences between Type 1 and Type 2 diabetes?",
+    "top3": [
+      15,
+      14,
+      16
+    ],
+    "sources": [
+      "who_diabetes.pdf",
+      "who_diabetes.pdf",
+      "who_diabetes.pdf"
+    ],
+    "scores": [
+      0.3509,
+      0.3318,
+      0.2497
+    ],
+    "gold": [
+      14,
+      15,
+      17
+    ],
+    "gold_in_top3": true,
+    "said_dont_know": false,
+    "chunks": [
+      "sugar if not treated. Over time, type 2 diabetes can cause serious damage to the body, especially nerves and blood vessels. Type 2 diabetes is often preventable. Factors that contribute to developing type 2 diabetes include being overweight, not getting enough exercise, and genetics. Early diagnosis is important to prevent the worst effects of type 2 diabetes. The best way to detect diabetes early is to get regular check-ups and blood tests with a healthcare provider. Symptoms of type 2 diabetes can be mild. They may take several years to be noticed. Symptoms may be similar to those of type 1 diabetes but are often less marked. As a result, the disease may be diagnosed several years after onset, after complications have already arisen. More than 95% of people with diabetes have type 2 diabetes. Type 2 diabetes was formerly called non-insulin dependent, or adult onset. Until recently, this type of diabetes was seen only in adults but it is now also occurring increasingly frequently in children. Gestational diabetes Gestational diabetes is hyperglycaemia with blood glucose values above normal but below those diagnostic of diabetes. Gestational diabetes occurs during pregnancy. Women with gestational diabetes are at an increased risk of",
+      "nerves. People with diabetes have a higher risk of health problems including heart attack, stroke and kidney failure. Diabetes can cause permanent vision loss by damaging blood vessels in the eyes. Many people with diabetes develop problems with their feet from nerve damage and poor blood flow. This can cause foot ulcers and may lead to amputation. Type 1 diabetes Type 1 diabetes (previously known as insulin-dependent, juvenile or childhood-onset) is characterized by deficient insulin production and requires daily administration of insulin. In 2017 there were 9 million people with type 1 diabetes; the majority of them live in high- 10/6/26, 1:16 AM Diabetes https://www.who.int/news-room/fact-sheets/detail/diabetes 2/5 income countries. Neither its cause nor the means to prevent it are known. Type 2 diabetes Type 2 diabetes affects how your body uses sugar (glucose) for energy. It stops the body from using insulin properly, which can lead to high levels of blood sugar if not treated. Over time, type 2 diabetes can cause serious damage to the body, especially nerves and blood vessels. Type 2 diabetes is often preventable. Factors that contribute to developing type 2 diabetes include being overweight, not getting enough exercise, and genetics. Early diagnosis is important to prevent",
+      "of diabetes was seen only in adults but it is now also occurring increasingly frequently in children. Gestational diabetes Gestational diabetes is hyperglycaemia with blood glucose values above normal but below those diagnostic of diabetes. Gestational diabetes occurs during pregnancy. Women with gestational diabetes are at an increased risk of complications during pregnancy and at delivery. These women and possibly their children are also at increased risk of type 2 diabetes in the future. Gestational diabetes is diagnosed through prenatal screening, rather than through reported symptoms. 10/6/26, 1:16 AM Diabetes https://www.who.int/news-room/fact-sheets/detail/diabetes 3/5 Impaired glucose tolerance and impaired fasting glycaemia Impaired glucose tolerance (IGT) and impaired fasting glycaemia (IFG) are intermediate conditions in the transition between normality and diabetes. People with IGT or IFG are at high risk of progressing to type 2 diabetes, although this is not inevitable. Prevention Lifestyle changes are the best way to prevent or delay the onset of type 2 diabetes. To help prevent type 2 diabetes and its complications, people should: reach and keep a health body weight stay physically active with at least 150 minutes of moderate exercise each week eat a healthy diet and avoid sugar and saturated fat not smoke tobacco. Diagnosis"
+    ],
+    "answer": "**Main differences between Type\u202f1 and Type\u202f2 diabetes**\n\n| Feature | Type\u202f1 diabetes | Type\u202f2 diabetes |\n|---------|-----------------|-----------------|\n| **Onset** | Usually childhood or adolescent (juvenile\u2011onset) | Usually adult\u2011onset, but increasingly seen in children |\n| **Insulin** | Deficient insulin production \u2192 requires daily insulin therapy | Insulin resistance; the body still produces insulin but it is not used effectively |\n| **Cause** | Unknown; autoimmune destruction of insulin\u2011producing cells | Often linked to being overweight, lack of exercise, genetics; preventable |\n| **Prevalence** | About 9\u202fmillion people worldwide (majority in high\u2011income countries) | >95\u202f% of people with diabetes; most common form globally |\n| **Risk factors** | Not specified in the WHO summary | Overweight, sedentary lifestyle, genetics |\n| **Prevention** | Not known | Lifestyle changes (healthy weight, exercise, diet, no smoking) can prevent or delay onset |\n\n**Sources**  \n- *who_diabetes.pdf* (WHO Fact Sheet on Diabetes)\u3010who_diabetes.pdf\u3011"
+  },
+  {
+    "n": 6,
+    "question": "How can high salt and sodium intake impact the risk of cardiovascular diseases?",
+    "top3": [
+      0,
+      7,
+      6
+    ],
+    "sources": [
+      "who_cardiovascular.pdf",
+      "who_cardiovascular.pdf",
+      "who_cardiovascular.pdf"
+    ],
+    "scores": [
+      0.19,
+      0.1801,
+      0.169
+    ],
+    "gold": [
+      0,
+      2
+    ],
+    "gold_in_top3": true,
+    "said_dont_know": false,
+    "chunks": [
+      "Donate Cardiovascular diseases (CVDs) 31 July 2025 Reading time: 6 min (1506 words) | \u0627\u0644\u0639\u0631\u0628\u064a\u0629\u4e2d\u6587 Fran\u00e7ais \u0420\u0443\u0441\u0441\u043a\u0438\u0439 Espa\u00f1ol Key facts Cardiovascular diseases (CVDs) are the leading cause of death globally. An estimated 19.8 million people died from CVDs in 2022, representing approximately 32% of all global deaths. Of these deaths, 85% were due to heart attack and stroke. Over three quarters of CVD deaths take place in low- and middle-income countries. Out of the 18 million premature deaths (under the age of 70) due to noncommunicable diseases in 2021, at least 38% were caused by CVDs. Most cardiovascular diseases can be prevented by addressing behavioural and environmental risk factors such as tobacco use, unhealthy diet (including excess salt, sugar, and fats) and obesity, physical inactivity, harmful use of alcohol and air pollution. It is important to detect cardiovascular disease as early as possible so that management with counselling and medicines can begin. Overview Cardiovascular diseases (CVDs) are a group of disorders of the heart and blood vessels. They include: coronary heart disease \u2013 a disease of the blood vessels supplying the heart muscle; cerebrovascular disease \u2013 a disease of the blood vessels supplying the brain; peripheral arterial disease \u2013 a",
+      "and other noncommunicable diseases contribute to poverty due to catastrophic health spending and high out-of-pocket expenditure. At the macro-economic level, CVDs place a heavy burden on the economies of low- and middle-income countries. How the burden of cardiovascular diseases can be reduced The key to cardiovascular disease reduction lies in the inclusion of cardiovascular disease management interventions in universal health coverage packages, although in a high number of countries health systems require significant investment and reorientation to effectively manage CVDs. Evidence from 18 countries has shown that hypertension programmes can be implemented efficiently and cost-effectively at the primary care level which will ultimately result in reduced coronary heart disease and stroke. Patients with cardiovascular disease should 10/6/26, 1:15 AM Cardiovascular diseases (CVDs) https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds) 4/6 have access to appropriate technology and medication. Basic medicines that should be available include: aspirin beta-blockers calcium channel blockers angiotensin-converting enzyme inhibitors diuretics statins. An acute event such as a heart attack or stroke should be promptly managed. Sometimes, surgical operations are required to treat CVDs. They include: coronary artery bypass; balloon angioplasty (where a small balloon-like device is threaded through an artery to open the blockage); valve repair and replacement; heart transplantation; and artificial heart",
+      "joints, nausea, stomach cramps and vomiting. Why cardiovascular diseases are a development issue in low- and middle- income countries Approximately 80% of the world's deaths from CVDs occur in low- and middle-income countries. People living in low- and middle-income countries often do not have the benefit of primary health care programmes for early detection and treatment of people with risk factors for CVDs. People in low- and middle-income countries who suffer from CVDs and other noncommunicable diseases have less access to effective and equitable health care services which respond to their needs. As a result, for many people in these countries detection is often late in the course of the disease and people die at a younger age from CVDs and other noncommunicable diseases, often in their most productive years. The poorest people in low- and middle-income countries are most affected. At the household level, evidence is emerging that CVDs and other noncommunicable diseases contribute to poverty due to catastrophic health spending and high out-of-pocket expenditure. At the macro-economic level, CVDs place a heavy burden on the economies of low- and middle-income countries. How the burden of cardiovascular diseases can be reduced The key to cardiovascular disease reduction lies in"
+    ],
+    "answer": "High salt and sodium intake is listed as an unhealthy dietary factor that can raise the risk of cardiovascular diseases. In the WHO fact sheet, it is grouped with other behavioural and environmental risk factors\u2014such as tobacco use, excess sugar and fat, obesity, physical inactivity, harmful alcohol use, and air pollution\u2014that can contribute to the development of CVDs (who_cardiovascular.pdf)."
+  },
+  {
+    "n": 7,
+    "question": "What is the suggested weekly bodily movement to maintain wellness?",
+    "top3": [
+      44,
+      45,
+      31
+    ],
+    "sources": [
+      "who_physical_activity.pdf",
+      "who_physical_activity.pdf",
+      "who_obesity.pdf"
+    ],
+    "scores": [
+      0.1777,
+      0.1638,
+      0.0902
+    ],
+    "gold": [
+      49
+    ],
+    "gold_in_top3": false,
+    "said_dont_know": true,
+    "chunks": [
+      "Donate Physical activity 26 June 2024 Reading time: 5 min (1422 words) | \u0627\u0644\u0639\u0631\u0628\u064a\u0629\u4e2d\u6587 Fran\u00e7ais \u0420\u0443\u0441\u0441\u043a\u0438\u0439 Espa\u00f1ol Key facts Regular physical activity provides significant physical and mental health benefits. In adults, physical activity contributes to prevention and management of noncommunicable diseases such as cardiovascular diseases, cancer and diabetes and reduces symptoms of depression and anxiety, enhances brain health, and can improve overall well-being. In children and adolescents, physical activity promotes bone health, encourages healthy growth and development of muscle, and improves motor and cognitive development. 31% of adults and 80% of adolescents do not meet the recommended levels of physical activity. The global target set to reduce levels of physical inactivity in adults and adolescents is a 10% relative reduction by 2025 and 15% by 2030, from the 2010 baseline. The global estimate of the cost of physical inactivity to public health care systems between 2020 and 2030 is about US$ 300 billion (approximately US$ 27 billion per year) if levels of physical inactivity are not reduced. Overview WHO defines physical activity as any bodily movement produced by skeletal muscles that requires energy expenditure. Physical activity refers to all movement including during leisure time, for transport to get to and",
+      "US$ 300 billion (approximately US$ 27 billion per year) if levels of physical inactivity are not reduced. Overview WHO defines physical activity as any bodily movement produced by skeletal muscles that requires energy expenditure. Physical activity refers to all movement including during leisure time, for transport to get to and from places, or as part of a person\u2019s work or domestic activities. Both moderate- and vigorous-intensity physical activity improve health. Popular ways to be active include walking, cycling, wheeling, sports, active recreation and play, and can be done at any level of skill and for enjoyment by everybody. 10/6/26, 1:18 AM Physical activity https://www.who.int/news-room/fact-sheets/detail/physical-activity 1/5 Physical activity is beneficial to health and well-being and conversely, physical inactivity increases risk for noncommunicable diseases (NCDs) and other poor health outcomes. Together, physical inactivity and sedentary behaviours are contributing to the rise in NCDs and placing a burden on healthcare systems. Improving levels of physical activity will benefit health and well-being and contribute to attainment of global NCD targets and a number of the Sustainable Development Goals. However, this will require increased commitments and investments by Member States; innovation and contributions from non-state actors; cross sector coordination and collaboration; and ongoing guidance and",
+      "access to healthy diet, market forces, and the broader environment. In the last decades, obesity has expanded globally as countries have experienced greater food security, socioeconomic development, and shifts in diet, physical activity, and societal and individual behavior driven by globalization and industrialized food systems. These forces have created 10/6/26, 1:17 AM Obesity and overweight https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight 1/7 increasingly obesogenic environments, contributing to what is now a global public health crisis with more than 1 billion people living with obesity and prevalence rising in nearly every country (1). A diagnosis of overweight or obesity is made by measuring people\u2019s weight and height and by calculating the body mass index (BMI): weight (kg)/height\u00b2 (m\u00b2). The body mass index is a surrogate marker of fatness and additional measurements, such as the waist circumference, can help the diagnosis of obesity. The BMI categories for defining obesity vary by age and gender for adults, adolescents, children and infants. Definition of overweight and obesity WHO defines overweight and obesity as outlined below. Adults For adults: overweight is a BMI greater than or equal to 25; and obesity is a BMI greater than or equal to 30. Children For children, age needs to be considered when defining"
+    ],
+    "answer": "I don't know based on the provided context."
+  },
+  {
+    "n": 8,
+    "question": "What are the primary motor symptoms of Parkinson's disease?",
+    "top3": [
+      3,
+      5,
+      4
+    ],
+    "sources": [
+      "who_cardiovascular.pdf",
+      "who_cardiovascular.pdf",
+      "who_cardiovascular.pdf"
+    ],
+    "scores": [
+      0.1863,
+      0.1534,
+      0.1415
+    ],
+    "gold": [],
+    "gold_in_top3": null,
+    "said_dont_know": true,
+    "chunks": [
+      "diet, eating more fruit and vegetables, regular physical activity and avoiding harmful use of alcohol have been shown to reduce the risk of cardiovascular disease. Health policies that create conducive environments for making healthy choices affordable and available, as well as improving air quality and reducing pollution, are essential for motivating people to adopt and sustain healthy behaviours. There are also a number of underlying determinants of CVDs. These are a reflection of the major forces driving social, economic and cultural change \u2013 globalization, urbanization and population ageing. Other determinants of CVDs include poverty, stress and hereditary factors. In addition, drug treatment of hypertension, diabetes and high blood lipids are necessary to reduce cardiovascular risk and prevent heart attacks and strokes among people with these conditions. 10/6/26, 1:15 AM Cardiovascular diseases (CVDs) https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds) 2/6 Common symptoms of cardiovascular diseases Symptoms of heart attacks and strokes Often, there are no symptoms of the underlying disease of the blood vessels. A heart attack or stroke may be the first sign of underlying disease. Symptoms of a heart attack include: pain or discomfort in the centre of the chest; and/or pain or discomfort in the arms, the left shoulder, elbows, jaw, or back.",
+      "difficulty walking, dizziness and/or loss of balance or coordination; severe headache with no known cause; and/or fainting or unconsciousness. People experiencing these symptoms should seek medical care immediately. Characteristics of rheumatic heart disease Rheumatic heart disease is caused by damage to the heart valves and heart muscle from the inflammation and scarring caused by rheumatic fever. Rheumatic fever is caused by an abnormal response of the body to infection with streptococcal bacteria, which usually begins as a sore throat or tonsillitis in children. Rheumatic fever mostly affects children in developing countries, especially where poverty is widespread. Globally, about 2% of deaths from cardiovascular diseases are related to rheumatic heart disease. 10/6/26, 1:15 AM Cardiovascular diseases (CVDs) https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds) 3/6 Symptoms of rheumatic heart disease Symptoms of rheumatic heart disease include: shortness of breath, fatigue, irregular heartbeats, chest pain and fainting. Symptoms of rheumatic fever include: fever, pain and swelling of the joints, nausea, stomach cramps and vomiting. Why cardiovascular diseases are a development issue in low- and middle- income countries Approximately 80% of the world's deaths from CVDs occur in low- and middle-income countries. People living in low- and middle-income countries often do not have the benefit of primary health care",
+      "of the underlying disease of the blood vessels. A heart attack or stroke may be the first sign of underlying disease. Symptoms of a heart attack include: pain or discomfort in the centre of the chest; and/or pain or discomfort in the arms, the left shoulder, elbows, jaw, or back. In addition the person may experience difficulty in breathing or shortness of breath; nausea or vomiting; light-headedness or faintness; a cold sweat; and turning pale. Women are more likely than men to have shortness of breath, nausea, vomiting, and back or jaw pain. The most common symptom of a stroke is sudden weakness of the face, arm, or leg, most often on one side of the body. Other symptoms include sudden onset of: numbness of the face, arm, or leg, especially on one side of the body; confusion, difficulty speaking or understanding speech; difficulty seeing with one or both eyes; difficulty walking, dizziness and/or loss of balance or coordination; severe headache with no known cause; and/or fainting or unconsciousness. People experiencing these symptoms should seek medical care immediately. Characteristics of rheumatic heart disease Rheumatic heart disease is caused by damage to the heart valves and heart muscle from the inflammation"
+    ],
+    "answer": "I don't know based on the provided context."
+  },
+  {
+    "n": 9,
+    "question": "How is a torn Anterior Cruciate Ligament (ACL) surgically repaired?",
+    "top3": [
+      50,
+      14,
+      6
+    ],
+    "sources": [
+      "who_physical_activity.pdf",
+      "who_diabetes.pdf",
+      "who_cardiovascular.pdf"
+    ],
+    "scores": [
+      0.116,
+      0.0808,
+      0.075
+    ],
+    "gold": [],
+    "gold_in_top3": null,
+    "said_dont_know": true,
+    "chunks": [
+      "of physical inactivity. Women are less active than men by an average of 5 percentage points. This has not changed since 2000. After 60 years of age physical inactivity levels increase in both men and women. 81% of adolescents (aged 11\u201317 years) were physically inactive (2). Adolescent girls were less active than adolescent boys, with 85% vs. 78%, not meeting WHO guidelines. 10/6/26, 1:18 AM Physical activity https://www.who.int/news-room/fact-sheets/detail/physical-activity 3/5 Many different factors can determine how active people are and the overall levels of physical activity in different population groups. These factors can be related to the individual or wider social, cultural, environmental and economic determinants that influence access and opportunities to be active in safe and enjoyable ways. How Member States can increase levels of physical activity The WHO Global action plan on physical activity provides policy recommendations for countries and communities to promote physical activity and ensure everyone has more opportunities to be regularly active. Examples of these recommendations include policies that ensure access to walking, cycling and non-motorized transport; that increase physical activity opportunities in schools, workplaces, childcare centres and in healthcare service delivery; and that increase accessibility and availability of community sports and public open spaces. Implementing",
+      "nerves. People with diabetes have a higher risk of health problems including heart attack, stroke and kidney failure. Diabetes can cause permanent vision loss by damaging blood vessels in the eyes. Many people with diabetes develop problems with their feet from nerve damage and poor blood flow. This can cause foot ulcers and may lead to amputation. Type 1 diabetes Type 1 diabetes (previously known as insulin-dependent, juvenile or childhood-onset) is characterized by deficient insulin production and requires daily administration of insulin. In 2017 there were 9 million people with type 1 diabetes; the majority of them live in high- 10/6/26, 1:16 AM Diabetes https://www.who.int/news-room/fact-sheets/detail/diabetes 2/5 income countries. Neither its cause nor the means to prevent it are known. Type 2 diabetes Type 2 diabetes affects how your body uses sugar (glucose) for energy. It stops the body from using insulin properly, which can lead to high levels of blood sugar if not treated. Over time, type 2 diabetes can cause serious damage to the body, especially nerves and blood vessels. Type 2 diabetes is often preventable. Factors that contribute to developing type 2 diabetes include being overweight, not getting enough exercise, and genetics. Early diagnosis is important to prevent",
+      "joints, nausea, stomach cramps and vomiting. Why cardiovascular diseases are a development issue in low- and middle- income countries Approximately 80% of the world's deaths from CVDs occur in low- and middle-income countries. People living in low- and middle-income countries often do not have the benefit of primary health care programmes for early detection and treatment of people with risk factors for CVDs. People in low- and middle-income countries who suffer from CVDs and other noncommunicable diseases have less access to effective and equitable health care services which respond to their needs. As a result, for many people in these countries detection is often late in the course of the disease and people die at a younger age from CVDs and other noncommunicable diseases, often in their most productive years. The poorest people in low- and middle-income countries are most affected. At the household level, evidence is emerging that CVDs and other noncommunicable diseases contribute to poverty due to catastrophic health spending and high out-of-pocket expenditure. At the macro-economic level, CVDs place a heavy burden on the economies of low- and middle-income countries. How the burden of cardiovascular diseases can be reduced The key to cardiovascular disease reduction lies in"
+    ],
+    "answer": "I don't know based on the provided context."
+  },
+  {
+    "n": 10,
+    "question": "What is the standard pharmaceutical treatment protocol for malaria?",
+    "top3": [
+      32,
+      28,
+      29
+    ],
+    "sources": [
+      "who_obesity.pdf",
+      "who_hypertension.pdf",
+      "who_hypertension.pdf"
+    ],
+    "scores": [
+      0.1874,
+      0.1372,
+      0.1323
+    ],
+    "gold": [],
+    "gold_in_top3": null,
+    "said_dont_know": true,
+    "chunks": [
+      "children and infants. Definition of overweight and obesity WHO defines overweight and obesity as outlined below. Adults For adults: overweight is a BMI greater than or equal to 25; and obesity is a BMI greater than or equal to 30. Children For children, age needs to be considered when defining overweight and obesity. Children aged between 5\u201319 years For children aged 5\u201319 years: overweight is BMI-for-age greater than 1 standard deviation above the WHO Growth Reference median; and obesity is greater than 2 standard deviations above the WHO Growth Reference median. Charts and tables: WHO growth reference for children aged between 5\u201319 years Children under 5 years of age For children under 5 years of age: 10/6/26, 1:17 AM Obesity and overweight https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight 2/7 overweight is weight-for-height greater than 2 standard deviations above WHO Child Growth Standards median; and obesity is weight-for-height greater than 3 standard deviations above the WHO Child Growth Standards median. Charts and tables: WHO child growth standards for children aged under 5 years Prevalence of overweight and obesity In 2022, 2.5 billion adults aged 18 years and older were overweight, including over 890 million adults who were living with obesity (1). This corresponds to 43% of",
+      "be achieved for control, and information on who, in the health-care system, can initiate treatment. To support governments in strengthening the prevention and control of cardiovascular disease, WHO and the United States Centers for Disease Control and Prevention (U.S. CDC) launched the Global Hearts Initiative in September 2016, which includes the HEARTS technical package. The six modules of the HEARTS technical package (Healthy-lifestyle counselling, Evidence-based treatment protocols, Access to essential medicines and technology, Risk-based management, Team-based care, and Systems for monitoring) provide a strategic approach to improve cardiovascular health in countries across the world. 10/6/26, 1:17 AM Hypertension https://www.who.int/news-room/fact-sheets/detail/hypertension 5/6 In September 2017, WHO began a partnership with Resolve to Save Lives, an initiative of Vital Strategies, to support national governments to implement the Global Hearts Initiative. Other partners contributing to the Global Hearts Initiative are the CDC Foundation, the Global Health Advocacy Incubator, the Johns Hopkins Bloomberg School of Public Health, the Pan American Health Organization (PAHO) and the U.S. CDC. Since implementation of the programme in 2017, in more than 40 low- and middle-income countries, 13.5 million people have been put on protocol-based hypertension treatment through person-centred models of care. These programmes demonstrate the feasibility and effectiveness of",
+      "Public Health, the Pan American Health Organization (PAHO) and the U.S. CDC. Since implementation of the programme in 2017, in more than 40 low- and middle-income countries, 13.5 million people have been put on protocol-based hypertension treatment through person-centred models of care. These programmes demonstrate the feasibility and effectiveness of standardized hypertension control programmes. Compendium of essential clinical terminology for hypertension-control programmes 10/6/26, 1:17 AM Hypertension https://www.who.int/news-room/fact-sheets/detail/hypertension 6/6"
+    ],
+    "answer": "I don't know based on the provided context. (Source: who_obesity.pdf, who_hypertension.pdf)"
+  }
+]
