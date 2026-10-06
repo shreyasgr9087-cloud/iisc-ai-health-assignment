@@ -56,8 +56,10 @@ def main():
         
     # 5. Generate Answer via Groq LLM
     client = Groq(api_key=os.environ.get("GROQ_API_KEY"))
+    
     prompt = f"""You are a trusted medical assistant. Answer the user's question based strictly on the context below. 
-    You MUST explicitly cite the source document name in your answer. Do not use outside knowledge.
+    If the context does not contain the relevant information to answer the question, you MUST explicitly state: "I don't know based on the provided context." 
+    You MUST explicitly cite the source document name in your answer if you find it. Do not use outside knowledge under any circumstances.
     
     Context:
     {context}
@@ -68,7 +70,7 @@ def main():
     
     response = client.chat.completions.create(
         messages=[{"role": "user", "content": prompt}],
-        model="openai/gpt-oss-20b",  # Using the most robust and accessible free model
+        model="openai/gpt-oss-20b",
         temperature=0.1
     )
     
