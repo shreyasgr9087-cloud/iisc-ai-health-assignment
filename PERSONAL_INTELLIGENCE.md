@@ -33,3 +33,9 @@ Initially, I relied on **regex phrase-matching to assign the "gold" labels for m
   I caught this during the evaluation phase when the LLM stubbornly replied, "I don't know," despite being fed the AI-designated "gold" chunks. Confused, I wrote a manual script to print out those specific chunks. I read them myself and discovered the text explicitly discussed the topic but *never actually stated the percentage*. The AI had completely missed this nuance. 
   
   I fixed it by throwing out the AI's prediction, manually relabeling the evaluation, and documenting the incident as a human labeling error. Honestly, it was a great outcome—it successfully proved that the LLM's strict context guardrails were working exactly as intended, preventing a hallucination when the answer wasn't actually there!
+
+---
+
+## 3. Timestamp Authentication
+* **Final Evaluation & Submission Date:** 2026-10-06T10:28:20+05:30
+* **Status:** Verified and Complete
